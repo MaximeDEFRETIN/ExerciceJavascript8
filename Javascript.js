@@ -1,9 +1,9 @@
 function form1(){
   var age = document.getElementById("age").value;
   if(age >= 18){
-    alert("T'es qu'un gros pédophile de merde !");
+    alert("T'es majeur, mec !");
   }
   else{
-    alert("Va crever sur le bord d'une autoroute !");
+    alert("T'es encore un gamin, fiston !");
   }
 }
